@@ -1,0 +1,14 @@
+# Python artefacts
+.python-version
+.venv
+*.ipynb-checkpoints
+
+# R artefacts
+
+
+# Data files
+*.csv
+*.json
+*.xlsx
+*.zip
+
